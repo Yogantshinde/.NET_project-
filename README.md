@@ -92,4 +92,5 @@ Pull requests and suggestions are welcome! Please fork the repo and submit your 
 This project is licensed under the MIT License.
 
 👨‍💻 Author
-Made with ❤️ by Your Name
+Made with ❤️ by Yogant Shinde
+
